@@ -1,0 +1,11 @@
+{
+  "name": "Akira_PCF8563T",
+  "version": "1.0.0",
+  "description": "PCF8563T library",
+  "keywords": "PCF8563T",
+  "frameworks": "arduino",
+  "platforms": "espressif32",
+  "dependencies": {
+    "paulstoffregen/Time": ">=1.6.1"
+  }
+}
